@@ -1,4 +1,4 @@
-<img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Animated GIF" style="width: 100%; height: 400px;" />
+<img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Animated GIF" style="width: 100%; height: auto;" />
 
 <h1 align="center">Hi 👋, I'm ABHIJITH</h1>
 <h3 align="center">Building Innovative Digital Journeys with MERN Brilliance and Creative Vision</h3>
