@@ -1,6 +1,6 @@
 <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Animated GIF" style="width: 100%; height: auto;" />
 <img src="https://c.tenor.com/uBcbvnuP3K0AAAAd/tenor.gif" alt="Animated GIF" style="width: 150px; height: auto; position: absolute; left: 10px; top: 50px;" />
-
+<img src="https://c.tenor.com/uBcbvnuP3K0AAAAd/tenor.gif" alt="Animated GIF" style="width: 100%; height: auto;" />
 
 <h1 align="center">Hi 👋, I'm ABHIJITH</h1>
 <h3 align="center">Building Innovative Digital Journeys with MERN Brilliance and Creative Vision</h3>
