@@ -1,4 +1,5 @@
-<img src="https://c.tenor.com/uBcbvnuP3K0AAAAd/tenor.gif" alt="Animated GIF" style="width: 150px; height: auto; position: absolute; left: 10px; top: 20px;" />
+<img src="https://i.giphy.com/800iiDTaNNFOwytONV.webp" alt="Animated GIF" style="width: 150px; height: auto; position: absolute; left: 10px; top: 20px;" />
+
 
 <h1 align="center">Hi 👋, I'm ABHIJITH</h1>
 <h3 align="center">Building Innovative Digital Journeys with MERN Brilliance and Creative Vision</h3>
