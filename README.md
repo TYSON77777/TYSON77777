@@ -4,12 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyson77777&label=Profile%20views&color=0e75b6&style=flat" alt="tyson77777" /> </p>
 
-<p align="left">
-  Follow me on 
-  <a href="https://www.instagram.com/stan.__.7/" target="blank">
-    <img src="https://i.pinimg.com/564x/bd/12/0f/bd120f6e18e146713ccd0cce4e3ec0f2.jpg" alt="Follow me on Instagram" width="40" height="40" style="vertical-align: middle;" />
-  </a>
+<p align="left" style="font-family: 'Poppins', sans-serif; font-size: 16px; color: #333; display: flex; align-items: center;">
+    Follow me on 
+    <a href="https://www.instagram.com/stan.__.7/" target="blank" style="margin-left: 5px;">
+        <img src="https://www.citypng.com/public/uploads/preview/hd-official-outline-instagram-ig-logo-icon-png-701751694786948nms5td2hyk.png" alt="Follow me on Instagram" width="40" height="40" style="vertical-align: middle;" />
+    </a>
 </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
