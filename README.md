@@ -5,8 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyson77777&label=Profile%20views&color=0e75b6&style=flat" alt="tyson77777" /> </p>
 
 <p align="left">
+  Follow me on 
   <a href="https://www.instagram.com/stan.__.7/" target="blank">
-    <img src="https://i.pinimg.com/564x/bd/12/0f/bd120f6e18e146713ccd0cce4e3ec0f2.jpg" alt="Follow me on Instagram" width="40" height="40" />
+    <img src="https://i.pinimg.com/564x/bd/12/0f/bd120f6e18e146713ccd0cce4e3ec0f2.jpg" alt="Follow me on Instagram" width="40" height="40" style="vertical-align: middle;" />
   </a>
 </p>
 
