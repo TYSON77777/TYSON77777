@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyson77777&label=Profile%20views&color=0e75b6&style=flat" alt="tyson77777" /> </p>
 
-<p align="left" style="font-family: 'Montserrat', sans-serif; font-size: 16px; font-weight: 1000; color: #333; display: flex; align-items: center;">
-    FOLLOW ME ON
+<p align="left" style="font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; color: white; display: flex; align-items: center; text-transform: uppercase;">
     <a href="https://www.instagram.com/stan.__.7/" target="blank" style="margin-left: 5px;">
+         FOLLOW ME ON
         <img src="https://i.pinimg.com/enabled_lo/564x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="Follow me on Instagram" width="40" height="40" style="vertical-align: middle;" />
     </a>
 </p>
