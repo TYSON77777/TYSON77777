@@ -16,7 +16,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhijith777" height="30" width="40" />
   </a>
 </p>
-<img src="https://c.tenor.com/uBcbvnuP3K0AAAAd/tenor.gif" alt="Animated GIF" style="width: 150px; height: auto; position: absolute; left: 10px; top: 50px;" />
+<img src="https://c.tenor.com/uBcbvnuP3K0AAAAd/tenor.gif" alt="Animated GIF" style="width: 400px; height: auto; position: absolute; left: 10px; top: 50px;" />
 
 
 
