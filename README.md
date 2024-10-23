@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyson77777&label=Profile%20views&color=0e75b6&style=flat" alt="tyson77777" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ambuz333" target="blank"><img src="https://img.shields.io/twitter/follow/@ambuz333?logo=twitter&style=for-the-badge" alt="@ambuz333" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/stan.__.7/" target="blank"><img src="https://img.shields.io/twitter/follow/@ambuz333?logo=twitter&style=for-the-badge" alt="@ambuz333" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
   <img src="https://i.giphy.com/800iiDTaNNFOwytONV.webp" alt="Animated GIF" style="width: 150px; height: auto; />
