@@ -15,19 +15,16 @@
 
 
 
-<p align="left">
+<p align="left" style="display: flex; align-items: center; justify-content: flex-start;">
   <a href="https://twitter.com/@ambuz333" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ambuz333" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/abhijith777/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhijith777" height="30" width="40" />
   </a>
-</p>
-
-<p align="left" style="font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; color: white; display: flex; align-items: center; text-transform: uppercase;">
-    <a href="https://www.instagram.com/stan.__.7/" target="blank" style="margin-left: 5px;">
-        <img src="https://i.pinimg.com/enabled_lo/564x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="Follow me on Instagram" width="60px" height="60px" style="vertical-align: middle;" />
-    </a>
+  <a href="https://www.instagram.com/stan.__.7/" target="blank" style="margin-left: 10px;">
+    <img src="https://i.pinimg.com/enabled_lo/564x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="Follow me on Instagram" width="60px" height="60px" style="vertical-align: middle;" />
+  </a>
 </p>
 
 
