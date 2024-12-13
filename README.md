@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Animated GIF" 
-       style="width: 400px; height: auto; border-radius: 15px; margin-bottom: 20px;" />
+       style="width: 300px; height: auto; border-radius: 15px; 
+              box-shadow: 0px 4px 15px rgba(255, 255, 255, 0.8); 
+              margin-bottom: 20px;" />
 </div>
-
 
 
 <h1 align="center">Hi 👋, I'm ABHIJITH</h1>
