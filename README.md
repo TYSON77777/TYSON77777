@@ -1,5 +1,9 @@
-<img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Animated GIF" 
-     style="width: 300px; height: auto; border-radius: 15px;" />
+<div align="center">
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Animated GIF" 
+       style="width: 400px; height: auto; border-radius: 15px; margin-bottom: 20px;" />
+</div>
+
+
 
 <h1 align="center">Hi 👋, I'm ABHIJITH</h1>
 <h3 align="center">Building Innovative Digital Journeys with MERN Brilliance and Creative Vision</h3>
