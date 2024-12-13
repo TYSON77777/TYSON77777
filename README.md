@@ -1,8 +1,9 @@
-<div align="center" style="background: white; border-radius: 20px; padding: 10px; display: inline-block; box-shadow: 0px 10px 25px rgba(255, 255, 255, 0.8);">
+<div align="center">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Animated GIF" 
-       style="width: 300px; height: auto; border-radius: 15px;" />
+       style="width: 300px; height: auto; border-radius: 15px; 
+              box-shadow: 0px 8px 20px rgba(200, 200, 200, 0.8); 
+              margin-bottom: 20px;" />
 </div>
-
 <h1 align="center">Hi 👋, I'm ABHIJITH</h1>
 <h3 align="center">Building Innovative Digital Journeys with MERN Brilliance and Creative Vision</h3>
 
