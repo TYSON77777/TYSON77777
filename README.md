@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Animated GIF" 
-       style="width: 1000px; height: auto;  margin-bottom: 20px;" />
+       style="width: 500px; height: auto;  margin-bottom: 20px;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm ABHIJITH</h1>
