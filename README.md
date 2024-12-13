@@ -8,25 +8,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyson77777&label=Profile%20views&color=0e75b6&style=flat" alt="tyson77777" /> </p>
 
+<p align="left" style="font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; color: white; display: flex; align-items: center; text-transform: uppercase;">
+    <a href="https://www.instagram.com/stan.__.7/" target="blank" style="margin-left: 5px;">
+        <img src="https://i.pinimg.com/enabled_lo/564x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="Follow me on Instagram" width="60px" height="60px" style="vertical-align: middle;" />
+    </a>
+</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
   <img src="https://i.giphy.com/800iiDTaNNFOwytONV.webp" alt="Animated GIF" style="width: 150px; height: auto; />
 
 
-
-<p align="left" style="display: flex; align-items: center; justify-content: flex-start;">
+<p align="left">
   <a href="https://twitter.com/@ambuz333" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ambuz333" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/abhijith777/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhijith777" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/stan.__.7/" target="blank" style="margin-left: 10px;">
-    <img src="https://i.pinimg.com/enabled_lo/564x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="Follow me on Instagram" width="60px" height="60px" style="vertical-align: middle;" />
-  </a>
 </p>
-
 
 
 
