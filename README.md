@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Main Animated GIF" style="width: 500px; height: auto; margin-bottom: 20px;" />
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Animated GIF" style="width: 500px; height: auto; margin-bottom: 20px;" />
 </div>
 
+<div align="center">
+  <h1>Hi 👋, I'm ABHIJITH</h1>
+</div>
 
-
-# 👋 Hello, I'm Abhijith
 
 ## 🚀 MERN Stack Developer | Passionate about Building Clean, Functional Web Apps
 
