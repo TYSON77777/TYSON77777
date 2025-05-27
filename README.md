@@ -41,9 +41,9 @@ I specialize in crafting seamless digital experiences with the MERN stack and us
 </div>
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-handle)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.instagram.com/stan.__.7/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.linkedin.com/in/abhijith777/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/@ambuz333)
 
 ---
 
